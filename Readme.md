@@ -34,6 +34,8 @@ Die Koordinaten für den Joint haben bei dem Henkel mit (0,0,0) schon gepasst.
 ## Ball
 Der Ball selbst ist nichts besonderes außer dem Rigidbody. Der ermöglicht das Einstellen von Masse, Gravitation usw., sowie die Kollision in Verbindung mit dem Sphere-Collider.
 
+(2 Bälle mit Masse = 0,5 = 1 Ball mit Masse 1)
+
 # Alles mit Code
 Die Buttons liegen auf einem Canvas.
 Erstellen: 
