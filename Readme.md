@@ -9,6 +9,7 @@ Mittig ist ein Hingejoint mit nichts verbunden -> Fest mit Punkt in Raum verbund
 <img src="image-1.png" width="80%">
 
 Damit sich der Arm wieder in die Ursprungslage versetzt habe ich eine Feder (Spring) genutzt. Sonst würde der Arm nicht wieder Horizontal werden, sondern in der balancierten Schräglage bleiben.
+
 ![alt text](image-5.png)
 
 ## Eimer
